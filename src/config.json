@@ -4,6 +4,6 @@
     "guild": "guild.id",
     "bots": [{
         "channel": "channel.name",
-        "token": "bot.token"
+        "token": "BOT_TOKEN"
     }]
 }
