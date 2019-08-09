@@ -1,6 +1,6 @@
 <discord>
-    <channel>name-of-your-channel</channel>
+    <channel>bot-mta</channel>
     <passphrase>equal-to-the-server-passphrase</passphrase>
-    <hostname>localhost</hostname>
-    <port>8100</port>
+    <hostname>mtasa://138.201.88.249</hostname>
+    <port>27471</port>
 </discord>
